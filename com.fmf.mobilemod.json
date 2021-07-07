@@ -1,0 +1,78 @@
+{
+"redirect" : {
+
+"HOMEURL" : "https://mobilemodforffn.blogspot.com/",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Loading completed, Welcome to Mobile Mod for FFN",
+
+
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 4,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : true,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
+
+
+"STARAPPID" : "206146234",
+
+"ADMOB_BANNER" : "ca-app-pub-8625785402403014/3188019827",
+"ADMOB_INTER" : "ca-app-pub-8625785402403014/2266461022",
+"ADMOB_NATIV" : "ca-app-pub-8625785402403014/7726918681",
+
+"hpk_alien" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "Bank Jenius",
+"HPK_ADMOB3" : "Simpati",
+"HPK_ADMOB4" : "Telkomsel",
+"HPK_ADMOB5" : "Donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "bannerid",
+"UNITY_INTERSTITIAL" : "video",
+"UNITY_GAME_ID" : "4207403",
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "90425b065a0b1b7f",
+"APPLOVIN_INTERSTITIAL_ID" : "04fdc81d55224471",
+
+"Button_Start" : "START",
+"Button_Share" : "SHARE TO FRIEND",
+"Button_Rating" : "RATING NOW",
+
+
+"Exit_Popup_Dialog" : "If You like this app \n\n Help us to Improve this App even more by Giving us 5 Star Rating :)",
+"Rate_Button" : "Rate 5 Stars",
+"Later_Button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "This Game is sooo Gooodd, I've Tried it, You All should try it too, it's Fun!",
+"More_Button" : "Share This Game via WhatsApp",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
+}
