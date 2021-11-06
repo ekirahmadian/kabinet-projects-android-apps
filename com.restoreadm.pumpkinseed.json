@@ -8,7 +8,7 @@
 "HOMEURL" : "https://newpilatespowergym.blogspot.com/",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Loading completed, Welcome to Pumpkin Seed Recipes 2021",
+"JSON_POPUP_WAIT" : "Loading completed, Welcome to Pilates Power Workout",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
